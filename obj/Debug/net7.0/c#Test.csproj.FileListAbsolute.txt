@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.AssemblyInfo.cs
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\VS Code\c#Test\bin\Debug\net7.0\c#Test.exe
+C:\Users\Xiaomi\VS Code\c#Test\bin\Debug\net7.0\c#Test.deps.json
+C:\Users\Xiaomi\VS Code\c#Test\bin\Debug\net7.0\c#Test.runtimeconfig.json
+C:\Users\Xiaomi\VS Code\c#Test\bin\Debug\net7.0\c#Test.dll
+C:\Users\Xiaomi\VS Code\c#Test\bin\Debug\net7.0\c#Test.pdb
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.dll
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\refint\c#Test.dll
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.pdb
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\c#Test.genruntimeconfig.cache
+C:\Users\Xiaomi\VS Code\c#Test\obj\Debug\net7.0\ref\c#Test.dll
